@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap3-datetimepicker",
+  "name": "bs3-datetimepicker",
   "version": "1.0.0",
   "main": [
     "build/css/bootstrap-datetimepicker.min.css",
